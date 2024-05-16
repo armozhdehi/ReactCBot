@@ -1,2 +1,4 @@
 node_modules
 node_modules
+server/chatbot
+server/__pycache__
